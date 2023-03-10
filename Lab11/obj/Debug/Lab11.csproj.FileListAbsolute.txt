@@ -1,0 +1,10 @@
+D:\2 курс\4 семестр\дз\ооп\Lab11\Lab11\obj\Debug\Lab11.csproj.AssemblyReference.cache
+D:\2 курс\4 семестр\дз\ооп\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
+D:\2 курс\4 семестр\дз\ооп\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+D:\2 курс\4 семестр\дз\ооп\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+D:\2 курс\4 семестр\дз\ооп\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+D:\2 курс\4 семестр\дз\ооп\Lab11\Lab11\bin\Debug\Lab11.exe.config
+D:\2 курс\4 семестр\дз\ооп\Lab11\Lab11\bin\Debug\Lab11.exe
+D:\2 курс\4 семестр\дз\ооп\Lab11\Lab11\bin\Debug\Lab11.pdb
+D:\2 курс\4 семестр\дз\ооп\Lab11\Lab11\obj\Debug\Lab11.exe
+D:\2 курс\4 семестр\дз\ооп\Lab11\Lab11\obj\Debug\Lab11.pdb
